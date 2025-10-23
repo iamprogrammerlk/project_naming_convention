@@ -10,9 +10,9 @@
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Project Naming Convention
 
-{{PROJECT_DESCRIPTION}}
+The best naming conventions to follow to avoid unnecessary complications in your coding projects.
 
 > [!TIP]
 >
